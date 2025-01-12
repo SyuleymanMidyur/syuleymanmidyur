@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!👋! My name is Syuleyman and I'm a full stack developer, from Bulgaria</h2>
+<h2 align="left">Hello World!👋! I'm Syuleyman, a full stack developer, from Bulgaria</h2>
 
 - 🔭 I’m currently working on FlatAway - Mobile app
 - 🌱 I’m currently learning PostgreSQL and SQL Alchamy
