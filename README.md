@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on FlatAway - Mobile app
 - 🌱 I’m currently learning PostgreSQL and SQL Alchamy
 - 👯 I’m looking to collaborate on Junior project
-- 🤔 I’m interested in Mobile Development and AI
+- 🤔 I’m interested in Web / Mobile Development and AI
 - 📫 How to reach me: syuleyman.midyur@proton.me
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -25,6 +25,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syuleymanmidyur&show_icons=true&locale=en&layout=compact" alt="syuleymanmidyur" /></p>
 
 
-<img src="https://raw.githubusercontent.com/syuleymanmidyur/syuleymanmidyur/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
