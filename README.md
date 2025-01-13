@@ -1,9 +1,9 @@
 ![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/6ea20ada-500c-4cf5-b162-466334cc2547)
 
 
-- 🔭 I’m currently working on FlatAway - Mobile app
+- 🔭 I’m currently working on FlatAway - Mobile app (onsite)
 - 🌱 I’m currently learning PostgreSQL and SQL Alchamy
-- 👯 I’m looking to collaborate on Junior project
+- 👯 I’m looking to collaborate on begginer friendly projects
 - 🤔 I’m interested in Web / Mobile Development and AI
 - 📫 How to reach me: syuleyman.midyur@proton.me
 
