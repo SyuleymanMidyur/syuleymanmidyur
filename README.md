@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on FlatAway - Mobile app
 - 🌱 I’m currently learning PostgreSQL and SQL Alchamy
 - 👯 I’m looking to collaborate on Junior project
-- 🤔 I’m interested in Mobile Development and AI
+- 🤔 I’m interested in Web / Mobile Development and AI
 - 📫 How to reach me: syuleyman.midyur@proton.me
 
 <h2>🚀 Languages and Tools I Use</h2>
